@@ -69,7 +69,7 @@ div p {
 }
 
 #div3 {
-    background-image: url(imgs/150\ Sem\ Título_20250412174447.png);
+    background-image: url(imgs/fundo1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -77,14 +77,14 @@ div p {
 
 #div4 {
     background-color: #e7c296;
-    background-image: url(imgs/148\ Sem\ Título_20250412171320.png);
+    background-image: url(imgs/fundo2.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
 }
 
 #div5 {
-    background-image: url(imgs/151\ Sem\ Título_20250412174530.png);
+    background-image: url(imgs/fundo3.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
