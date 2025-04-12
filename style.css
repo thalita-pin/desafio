@@ -40,7 +40,7 @@ main {
 }
 
 div p {
-    padding: 10px 50px;
+    padding: 10px 0 10px 20px;
 }
 
 #flex {
@@ -59,7 +59,7 @@ div p {
 #flex img {
     width: 10em;
     height: auto;
-    border-radius: 10px;
+    border-radius: ;
 }
 
 #div2 {
